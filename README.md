@@ -1,4 +1,4 @@
-# Azuredio
+# Azure 
 
 A Introdução à Computação em Nuvem explora a entrega de serviços de computação (servidores, armazenamento, software, etc.) pela internet, oferecendo escalabilidade, flexibilidade e acesso sob demanda.
 
@@ -19,7 +19,10 @@ Passos para se Inscrever em uma Conta Gratuita do Azure:
 Acesse a página da Conta Gratuita do Azure: Abra seu navegador e navegue até a página oficial da Conta Gratuita do Microsoft Azure. Você geralmente pode encontrá-la pesquisando por "Azure conta gratuita" em seu mecanismo de busca preferido, ou acessando diretamente um site do Microsoft Azure e procurando pela opção "Conta Gratuita". Aqui estão alguns links oficiais:
 
 https://azure.microsoft.com/en-us/free/ (Inglês)
+
 https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account (Português - Brasil)
+
+
 Clique em "Começar gratuitamente" ou um botão similar: Você provavelmente verá um botão que o solicita a iniciar sua experiência gratuita do Azure. Clique nele.
 
 Entre ou crie uma conta Microsoft: Você será solicitado a entrar com sua conta Microsoft existente (Outlook, Hotmail, Xbox Live, etc.). Se você não tiver uma, precisará criar uma.
@@ -104,3 +107,6 @@ Exemplos	Compra de máquinas, edifícios, veículos, licenças perpétuas	Salár
 
 Em resumo, CAPEX representa investimentos significativos em ativos que a empresa utilizará por um período prolongado para gerar receita futura, enquanto OPEX engloba os custos contínuos e necessários para manter as operações diárias em funcionamento. A distinção entre os dois é crucial para o planejamento financeiro, contabilidade e tomada de decisões estratégicas de uma organização.
 
+
+ENG MARCELO BARUDI
+11985919330
